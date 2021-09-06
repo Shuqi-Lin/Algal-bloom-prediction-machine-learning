@@ -21,7 +21,7 @@ MLD -- mixing layer depth (m)
 W -- Wedderburn number
 thermD -- themocline depth
 
-In Lake Erken, trainning environmental factors including daily meteorological data, inflow, thermal structure, ice information, and weekly lake nutrients.
+In Lake Erken, trainning environmental factors include daily meteorological data, inflow, thermal structure, ice information, and weekly lake nutrients.
 To extend the machine learning models to other lakes, the daily meteorological, inflow data, and at least monthly lake nutrientsare required, and thermal structure (observed or modeled), ice information are desired.
 
 Scenario 1:
