@@ -229,6 +229,8 @@ df= df %>%
          PO4 = PHS_frp, N_Amm = NIT_amm, Chl = correct_chl_fluor)
 
 df$DateTime <- as.Date(df$DateTime)
+huh <- which(duplicated(df$DateTime))
+df <- df[-huh,]
 
 idx <- match(df$DateTime, model.df$DateTime)
 df.all <- merge(df, model.df, by = 'DateTime')
