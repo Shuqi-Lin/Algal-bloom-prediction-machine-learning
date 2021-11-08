@@ -1,8 +1,11 @@
-The dataset is from 1994-2015
+﻿The dataset is from 1994-2015
 
 There are some modelled variables (temperature profiles and some inflow discharge and water temperature).
 The chemistry data contains a few NaNs as well.
 
 Lake Vansjø is a large lake with two main basins (Storefjorden – 24km2 and Vanemfjorden – 12 km2).
 The attached dataset is for Vanemfjorden (see attached hypsography for depths). 
-So in the discharge data, I included measured inflow at Kure (upstream of Storefjorden, subcatchment of 304 km2), and other modelled inflow and water temperature: inflow into Storefjorden, outflow from Storefjorden into Vanemfjorden (connection between the two basins) and an additional inflow into Vanemfjorden (vanem subcatchment).
+So in the discharge data, I included measured inflow at Kure (upstream of Storefjorden, subcatchment of 304 km2), 
+and other modelled inflow and water temperature: inflow into Storefjorden, 
+outflow from Storefjorden into Vanemfjorden (connection between the two basins) and an additional inflow into Vanemfjorden 
+(vanem subcatchment).
