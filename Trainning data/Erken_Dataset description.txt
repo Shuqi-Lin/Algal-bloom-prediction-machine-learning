@@ -1,0 +1,12 @@
+Erken_Observation_df_nowinter -- Lab Chl + original YSI Chl
+Erken_Observation_df_nowinter2 -- only Lab Chl
+Erken_Observation_df_nowinter3 -- Lab Chl + corrected YSI Chl
+Erken_Observation_df_nowinter4 -- Lab Chl + corrected YSI Chl (when concentration >10)
+Erken_Observation_df_nowinter5 -- Lab Chl + corrected YSI Chl + bottom DO (Lab)
+Erken_Observation_df_nowinter6 -- Lab Chl + corrected YSI Chl + YSI sur and bot DO
+Erken_Observation_df_nowinter7 -- Erken_Observation_df_nowinter2 + modify days from iceoff date factor (-30-30)
+Erken_Observation_df_nowinter8 -- Erken_Observation_df_nowinter2 + modify days from iceoff date factor (-3,-2,-1,0,1,2,3)
+Erken_Observation_df_nowinter_classification -- Erken_Observation_df_nowinter8 + transform Chl into Bloom (1) or not (0) 
+(Threshold of delta_Chl:0.3,Threshold of Chl:5)
+Erken_Observation_df_nowinter_classification2 --Erken_Observation_df_nowinter6 + transform Chl into Bloom (1) or not (0) 
+(Threshold of delta_Chl:0.3,Threshold of Chl:5)
