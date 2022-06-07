@@ -1,0 +1,33 @@
+Mueggelsee_Observation_df_nowinter -- Lab Chl (2004-2012) + original YSI Chl (2013-2020)
+Mueggelsee_Observation_df_nowinter2 -- Lab Chl (2004-2012) + seasonal decomposed YSI Chl (2013-2020)
+* Take the trend from seasonal decomposed YSI Chl (2013-2020), and concat it with Lab Chl (2004-2012)
+* Detrend method: multiplicative, period=7
+
+Mueggelsee_Observation_df_nowinter3 -- Lab Chl (2004-2012) + seasonal decomposed YSI Chl (2013-2020)
+* Take the trend from seasonal decomposed YSI Chl (2013-2020), and concat it with Lab Chl (2004-2012)
+* Detrend method: additive, period=7
+
+Mueggelsee_Observation_df_nowinter4 -- Lab Chl (2004-2012) + seasonal decomposed YSI Chl (2013-2020)
+* Take the trend from seasonal decomposed YSI Chl (2013-2020), and concat it with Lab Chl (2004-2012)
+* Detrend method: additive, period=7
+* Resample the Chl to weekly
+
+Mueggelsee_Observation_df_nowinter5 -- Lab Chl (2004-2012) + seasonal decomposed YSI Chl (2013-2020)
+* Linear interpolate Lab Chl (2004-2012)
+* Take the trend from seasonal decomposed YSI Chl (2013-2020), and linear interpolated Lab Chl (2004-2012)
+* Detrend method: multiplicative, period=7
+* Resample the Chl to weekly
+
+Mueggelsee_Observation_df_nowinter6 -- Lab Chl (2004-2012) + seasonal decomposed YSI Chl (2013-2020)
+* Linear interpolate Lab Chl (2004-2012)
+* Take the trend from seasonal decomposed YSI Chl (2013-2020), and linear interpolated Lab Chl (2004-2012)
+* Detrend method: multiplicative, period=10
+* Resample the Chl to 10 days
+
+Mueggelsee_Observation_df_nowinter_classification -- built upon Mueggelsee_Observation_df_nowinter3
+* Linear interpolate Lab Chl into daily data
+* Identify bloom events when daily increase of Chl exceeds 1mg/m3 and Chl concentration exceeds 10 mg/mg3
+
+Mueggelsee_Observation_df_nowinter_classification2 -- built upon Mueggelsee_Observation_df_nowinter_classification
+* Add invasive species feature
+* Inva_spe = 1 after 2011, otherwise = 0
