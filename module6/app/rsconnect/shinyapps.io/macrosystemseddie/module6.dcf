@@ -1,0 +1,14 @@
+name: module6
+title: module6
+username:
+account: macrosystemseddie
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4489576
+bundleId: 5452429
+url: https://macrosystemseddie.shinyapps.io/module6/
+when: 1641827561.89868
+lastSyncTime: 1641827561.89868
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile|airt_wtemp_ts.png|install_packages.R|module6_answers_id(1).eddie|plots_ppt.R|process_observation_UC_explained.R|R/create_np_inputs.R|R/NP_model.R|README.md|report.docx|test_adding_regLines.R|test_different_lm_models.R|test_lm.R|test_noaa_idea_IC_UC.R|test_NP_model.R|test_rendering_latex_DT.R|uf_feedback.txt

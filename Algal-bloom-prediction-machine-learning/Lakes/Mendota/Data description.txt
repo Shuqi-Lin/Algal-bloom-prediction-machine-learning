@@ -1,0 +1,7 @@
+New Lake Mendota data is modified based on the version sent by Robert.
+1.Nutrient loadings from inflow were added into Daily_df. The new features include inflow temp, NIT_amm,NIT_nit,OGM_dop,OGM_pop,OGM_don,OGM_docr
+2.Daphnia observations were processed and added into Daily_df. The original averaged sample interval is 24 days. I filled the gap< 30 days with
+linear interpolation and gap>30 days with monthly mean.
+3.The NaN values in MLD and W were filled by linear interpolation and bfill.
+4.Sum_P_lastyr feature was added to Daily_df, which is the sum of last year OGM_dop loading
+5. accu_P feature was add to Daily_df, which is the accumulated OGM_dop loading in this year.

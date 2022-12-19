@@ -1,0 +1,5 @@
+libgdal-dev
+libhdf4-alt-dev
+libhdf5-dev
+libnetcdf-dev
+libudunits2-dev

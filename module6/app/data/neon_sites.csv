@@ -1,0 +1,13 @@
+siteID,location,type,Description,long,lat,pheno_url
+CRAM,Crampton Lake Site,Aquatic,CORE,-89.473688,46.209675,https://phenocam.sr.unh.edu/webcam/sites/NEON.D05.CRAM.DP1.20002/
+SUGG,Suggs Lake Site,Aquatic,CORE,-82.017745,29.68778,https://phenocam.sr.unh.edu/webcam/sites/NEON.D03.SUGG.DP1.20002/
+BARC,Barco Lake Site,Aquatic,CORE,-82.008414,29.675982,https://phenocam.sr.unh.edu/webcam/sites/NEON.D03.BARC.DP1.20002/
+PRPO,Prairie Pothole Site,Aquatic,CORE,-99.253147,47.129839,https://phenocam.sr.unh.edu/webcam/sites/NEON.D09.PRPO.DP1.20002/
+LIRO,Little Rock Lake Site,Aquatic,RELOCATABLE,-89.704767,45.998269,https://phenocam.sr.unh.edu/webcam/sites/NEON.D05.LIRO.DP1.20002/
+PRLA,Prairie Lake at Dakota Coteau Field School Site,Aquatic,RELOCATABLE,-99.11388,47.15909,https://phenocam.sr.unh.edu/webcam/sites/NEON.D09.PRLA.DP1.20002/
+TOOK,Toolik Lake Site,Aquatic,RELOCATABLE,-149.610636,68.630692,https://phenocam.sr.unh.edu/webcam/sites/NEON.D18.TOOK.DP1.20002/
+TOOL,Toolik Site,Terrestrial,CORE,-149.37047,68.66109,https://phenocam.sr.unh.edu/webcam/sites/NEON.D18.TOOL.DP1.00033/
+OSBS,Ordway-Swisher Biological Station Site,Terrestrial,CORE,-81.993431,29.689282,https://phenocam.sr.unh.edu/webcam/sites/NEON.D03.OSBS.DP1.00033/
+WOOD,Woodworth Site,Terrestrial,CORE,-99.241334,47.1282,https://phenocam.sr.unh.edu/webcam/sites/NEON.D09.WOOD.DP1.00033/
+BART,Bartlett Experimental Forest Site,Terrestrial,RELOCATABLE,-71.287375,44.063889,https://phenocam.sr.unh.edu/webcam/sites/NEON.D01.BART.DP1.00033/
+UNDE,UNDERC Site,Terrestrial,CORE,-89.537254,46.23391,https://phenocam.sr.unh.edu/webcam/sites/NEON.D05.UNDE.DP1.00033/

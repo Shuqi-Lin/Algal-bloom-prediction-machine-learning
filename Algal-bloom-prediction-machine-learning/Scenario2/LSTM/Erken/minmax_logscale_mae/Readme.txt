@@ -1,0 +1,2 @@
+For 6 lake nutrients, I used MinMaxScaler to scale the target variable and trained the model with mae loss function.
+For Chl, I used powertransform to scale the target, and trained the model with mae loss function.

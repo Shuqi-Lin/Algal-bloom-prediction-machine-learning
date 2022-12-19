@@ -1,0 +1,3 @@
+﻿Name,var,latex
+Water temperature (today),wtemp_yday,wtemp_{t}
+Air temperature (tomorrow),airt,atemp_{t+1}

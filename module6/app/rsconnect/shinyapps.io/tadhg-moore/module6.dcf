@@ -1,0 +1,14 @@
+name: module6
+title: module6
+username:
+account: tadhg-moore
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4489590
+bundleId: 5203890
+url: https://tadhg-moore.shinyapps.io/module6/
+when: 1635875394.39675
+lastSyncTime: 1635875394.39675
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile|install_packages.R|plots_ppt.R|process_observation_UC_explained.R|README.md|test_adding_regLines.R|test_different_lm_models.R|test_lm.R|test_noaa_idea_IC_UC.R|test_NP_model.R|test_rendering_latex_DT.R

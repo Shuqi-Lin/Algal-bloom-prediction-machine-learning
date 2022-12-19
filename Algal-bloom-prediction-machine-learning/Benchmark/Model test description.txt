@@ -1,0 +1,26 @@
+# Benchmark testing
+Lake Erken
+6 meteorological variables: AirT, U, CC, Prec, Hum, SWR
+9 variables: 6 variables + in/outflow + delT
+11 variables: 9 variables + ice duration + days from iceoff date
+10 variables: 11 variables - days from iceoff date
+14 variables: 11 variables + thermD + MLD + W
+13 variables: 14 variables - days from iceoff date
+12 variables: 14 variables - in/outflow (Forecast senario)
+18 variables: 14 variables + NOX + O2 + PO4 + TotP
+20 variables: 18 variables + NH4 + Si
+
+Lake Mueggelsee
+7 meteoroligical variables: U, AirT, AirP,CC,Prec,Humidity, SWR
+8 variables: 7 variables + delT
+9 varialbes: 8 variables + ice duration
+12 variables: 9 variables + thermD + MLD + W
+15 variables: 12 variables + NO3 + SRP + TotP
+17 variables: 15 variables + NH4 + Si
+
+11 variables: 12 variables - ice duration
+14 variables: 11 variables - ice duration
+16 variables: 17 variables - ice duration
+
+
+ 
